@@ -1,6 +1,6 @@
 ### SEU-ACAL推免生&科研实习招聘
 
-SEU-ACAL（Southeast University Advanced Computer Architecture Lab）是一支年轻的计算机体系结构和系统安全研究团队。团队导师为东南大学集成电路学院江哲老师（简历见https://zhejianguk.github.io/和学院官网）。近五年在体系结构和嵌入式领域发表论文40余篇，其中CCF-A论文18篇，CCF-B论文13篇。
+SEU-ACAL（Southeast University Advanced Computer Architecture Lab）是一支年轻的计算机体系结构和系统安全研究团队。团队导师为东南大学集成电路学院江哲老师（简历见 https://zhejianguk.github.io/ 和学院官网）。近五年在体系结构和嵌入式领域发表论文40余篇，其中CCF-A论文18篇，CCF-B论文13篇。
 
 
 
